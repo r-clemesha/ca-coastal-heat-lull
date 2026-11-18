@@ -1,0 +1,8 @@
+Data files in this repository (stations/, fig3_cloud_inversion/, goes_low_cloud/) are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+stations/ghcnd_tmax_334stations_cleaned.csv.gz is a quality-filtered subset of GHCN-Daily (NOAA National Centers for
+Environmental Information), a U.S. Government work in the public domain; no additional restrictions are placed on it.
+
+Code in code/ is licensed under the MIT License; see code/LICENSE.
